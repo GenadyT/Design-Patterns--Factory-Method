@@ -1,9 +1,9 @@
 ## Factory-Method DesignPatterns
 
-This .Net C# project demonstrates "Factory Method" design pattern and is inspired by the book - 
-	-------------------------------------------------------------------
-	Freeman, Eric; Robson, Elisabeth; Bates, Bert; Sierra, Kathy. 
-	Head First Design Patterns: A Brain-Friendly Guide. O'Reilly Media.
+This .Net C# project demonstrates "Factory Method" design pattern and is inspired by the book -   
+	-------------------------------------------------------------------  
+	Freeman, Eric; Robson, Elisabeth; Bates, Bert; Sierra, Kathy.   
+	Head First Design Patterns: A Brain-Friendly Guide. O'Reilly Media.  
 	-------------------------------------------------------------------
 
 ### Pattern Definition

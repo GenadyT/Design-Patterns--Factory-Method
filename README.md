@@ -1,4 +1,4 @@
-## Factory-Method DesignPatterns
+## Factory-Method Design Patterns
 
 This .Net C# project demonstrates "Factory Method" design pattern and is inspired by the book -   
 	-------------------------------------------------------------------  
